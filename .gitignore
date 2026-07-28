@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+*.db
+leadflow.db
+.pytest_cache/
+.streamlit/
+*.egg-info/
+.DS_Store
