@@ -1,0 +1,117 @@
+name,email,phone,company,job_title,industry,employee_count,source,last_activity_days
+Sara Kim,sara.kim@finwaveworks.com,555-201-3344,FinWave Works LLC,VP Engineering,FinTech,620,LinkedIn,3
+sara kim,Sara.Kim@FinWaveWorks.com,555-201-3344,Finwave Works Inc,Vice President of Product,FinTech,620,Referral,40
+Marcus Johnson,marcus.johnson@shopcartly.com,+1 (415) 555-0199,ShopCartly Inc,Director of Sales,E-commerce,340,Website,5
+M. Johnson,mjohnson@gmail.com,415-555-0199,Shopcartly Private Limited,Director,E-commerce,340,Cold Call,65
+Priya Patel,priya.patel@brightgrid.com,555-887-2210,BrightGrid Inc,CTO,Cloud,1450,Webinar,1
+Priya Patel,p.patel@brightgrid.com,555-887-2211,BrightGrid Private Limited,Chief Technology Officer,Cloud,1450,Trade Show,12
+Jon Smith,jon.smith@healthpointtech.com,555-330-7788,HealthPoint Technologies,Mgr,Healthcare Technology,210,Website,20
+John Smith,john.smith@healthpointtech.com,555-330-7799,Healthpoint Technologies Inc,Manager,Healthcare Technology,210,LinkedIn,88
+,unknown.lead@mindforgeai.com,,MindForge AI LLC,Data Analyst,Artificial Intelligence,,Content Download,
+Elena Rossi,,555-410-2200,,Consultant,Manufacturing,45,Referral,
+Tobias Muller,tobias.muller@vertexbuild.com,555-777-1234,VertexBuild Construction,,Construction,80,Website,200
+,,,CedarWorks Manufacturing,Engineer,Manufacturing,60,Website,10
+Aisha Khan,aisha.khan@quaverbank.com,555-660-9911,QuaverBank Financial,CEO,FinTech,5200,Referral,2
+Daniel Larsen,daniel.larsen@nimbuscloud.io,555-220-4411,NimbusCloud Ltd,VP Sales,Cloud,1800,LinkedIn,6
+Nina Costa,nina.costa@yahoo.com,555-909-1122,Greenfield Agri Ltd,Intern,Agriculture,12,Cold Call,300
+Kenji Tanaka,kenji.t@gmail.com,555-303-5566,OrbitFreight Ltd,Student,Logistics,8,Website,400
+Daniel Garcia,daniel.garcia@gmail.com,+1 (196) 001-3389,Brightgrid Pvt. Ltd.,VP Sales,Cloud,18,Content Download,58
+Carlos Silva,carlos.silva@hotmail.com,+1 (781) 618-4959,NimbusCloud Ltd,Dir Marketing,SaaS,49,Content Download,48
+Elena Johnson,elena.johnson@greenfieldagri.com,+1 (283) 276-4835,Greenfield Agri Limited,Consultant,Manufacturing,8,LinkedIn,346
+Daniel Anderson,daniel.anderson@hotmail.com,+1 (965) 328-7101,Finwave Works Inc,Chief Technology Officer,Cloud,13504,Cold Call,4
+Chloe Rossi,chloe.rossi@yahoo.com,+1 (482) 814-8932,Quaver Bank Financial LLC,COO,Cloud,806,Website,19
+Layla Larsen,layla.larsen98@nimbuscloud.io,+1 (227) 824-8963,NimbusCloud Ltd,Customer Success Associate,Agriculture,832,Trade Show,7
+Kenji Haddad,kenji.haddad@gmail.com,+1 (518) 347-3829,Healthpoint Technologies Inc,VP Sales,Agriculture,,Cold Call,5
+Daniel Garcia,daniel.garcia@gmail.com,+1 (726) 247-3178,BrightGrid LLC,Customer Success Associate,Artificial Intelligence,21,Cold Call,7
+James Tanaka,james.tanaka@shopcartly.com,+1 (872) 343-0980,Shopcartly Private Limited,Vice President of Product,Manufacturing,94,Website,1
+Priya Tanaka,priya.tanaka11@nimbuscloud.io,+1 (998) 543-5346,NimbusCloud,VP Sales,Artificial Intelligence,10,Cold Call,
+Marcus Kowalski,marcus.kowalski70@solarpeak.com,+1 (980) 841-2411,SolarPeak Energy,VP Sales,Retail,56,Webinar,4
+Grace Rossi,grace.rossi@brightgrid.com,+1 (786) 801-1280,BrightGrid Inc,Director of Sales,Retail,14,Referral,46
+Layla Dubois,layla.dubois@staplecorp.com,+1 (602) 563-4216,StapleCorp Retail,VP Sales,Banking,45,LinkedIn,43
+Wei Rossi,wei.rossi@mindforgeai.com,+1 (014) 294-0196,Mindforge AI Inc,Engineering Manager,FinTech,13622,LinkedIn,4
+Yuki Haddad,yuki.haddad@greenfieldagri.com,+1 (951) 484-6564,Greenfield Agri Ltd,Director,Agriculture,6702,Trade Show,66
+Grace Larsen,grace.larsen@staplecorp.com,+1 (214) 895-1343,Staplecorp Retail LLC,Manager,Retail,743,Cold Call,287
+Liam Smith,liam.smith90@solarpeak.com,+1 (083) 172-7889,SolarPeak Energy,Intern,Healthcare Technology,,Content Download,47
+Arjun Ivanov,arjun.ivanov@greenfieldagri.com,+1 (558) 122-3623,Greenfield Agri Ltd,VP Marketing,Healthcare Technology,89,Content Download,6
+Carlos Larsen,carlos.larsen@orbitfreight.com,+1 (688) 937-3467,Orbit Freight Limited,CTO,FinTech,5182,Trade Show,0
+Grace Nguyen,grace.nguyen@outlook.com,+1 (564) 641-7080,Vertex Build Construction Inc,Chief Executive Officer,Construction,8,LinkedIn,8
+Isabella Garcia,isabella.garcia@staplecorp.com,+1 (912) 419-0496,StapleCorp Retail,Manager,Artificial Intelligence,7,Webinar,
+Elena Haddad,elena.haddad@orbitfreight.com,+1 (716) 572-6284,Orbit Freight Limited,CFO,Banking,474,Content Download,10
+Kenji Suzuki,kenji.suzuki28@hotmail.com,+1 (454) 948-0831,Greenfield Agri Limited,Director of Sales,Healthcare Technology,,Webinar,7
+Mateo Khan,mateo.khan@shopcartly.com,+1 (855) 744-4313,ShopCartly,Data Analyst,Artificial Intelligence,198,Webinar,84
+Sofia Muller,sofia.muller@gmail.com,+1 (271) 094-7775,BrightGrid Private Limited,VP Marketing,SaaS,920,Cold Call,26
+Kenji Muller,kenji.muller@nimbuscloud.io,+1 (938) 677-4964,NimbusCloud Ltd,COO,Manufacturing,,Website,2
+Grace Anderson,grace.anderson@hotmail.com,+1 (713) 493-6183,Lumen Media Group Inc,Vice President of Product,Media,11079,Webinar,38
+Ethan Costa,ethan.costa@gmail.com,+1 (940) 139-9049,Brightgrid Pvt Ltd,Manager,Cloud,86,Trade Show,6
+Grace Silva,grace.silva@mindforgeai.com,+1 (468) 071-5451,Mindforge AI Inc,COO,Energy,945,Cold Call,
+Daniel Anderson,daniel.anderson@yahoo.com,+1 (710) 932-4808,QuaverBank Financial,VP Engineering,Cloud,831,Webinar,230
+Nina Khan,nina.khan@yahoo.com,+1 (658) 404-4997,CedarWorks Manufacturing,Dir Marketing,Banking,19085,Cold Call,18
+Priya Dubois,priya.dubois@brightgrid.com,+1 (270) 289-5171,Brightgrid Pvt. Ltd.,Customer Success Associate,Healthcare Technology,1,Cold Call,4
+Tobias Haddad,tobias.haddad@orbitfreight.com,+1 (091) 343-1611,Orbit Freight Limited,Account Executive,Artificial Intelligence,123,Referral,
+Isabella Kim,isabella.kim@finwaveworks.com,+1 (792) 374-7407,FinWave Works LLC,CFO,Retail,,Cold Call,22
+Tobias Ivanov,tobias.ivanov@nimbuscloud.io,+1 (406) 409-0974,NimbusCloud Ltd,Dir Marketing,Agriculture,,Content Download,37
+Maria Larsen,maria.larsen@hotmail.com,+1 (328) 588-4247,Mindforge AI Inc,Chief Technology Officer,Media,34,Content Download,
+Yuki Tanaka,yuki.tanaka@hotmail.com,+1 (965) 137-0985,Brightgrid Pvt. Ltd.,Software Engineer,Agriculture,3,LinkedIn,0
+Layla Haddad,layla.haddad@finwaveworks.com,+1 (869) 261-7964,Finwave Works Inc,Manager,FinTech,327,Website,5
+,noah.garcia@vertexbuild.com,+1 (005) 329-3183,Vertex Build Construction Inc,CFO,Agriculture,38,LinkedIn,13
+Yuki Khan,yuki.khan54@gmail.com,+1 (177) 589-1783,Staplecorp Retail LLC,CTO,Manufacturing,17,Cold Call,146
+Omar Patel,omar.patel36@solarpeak.com,+1 (985) 698-4789,SolarPeak Energy,Director of Sales,Artificial Intelligence,943,Cold Call,323
+Fatima Silva,fatima.silva@yahoo.com,+1 (111) 615-2809,Orbit Freight Limited,Business Development Representative,Construction,,Website,4
+Noah Nguyen,noah.nguyen@greenfieldagri.com,+1 (149) 368-9980,Greenfield Agri Limited,VP Sales,Media,239,Referral,
+Wei Nguyen,wei.nguyen@lumenmedia.com,+1 (525) 459-9102,LumenMedia Group,CFO,E-commerce,726,Trade Show,
+Grace Garcia,grace.garcia@shopcartly.com,+1 (369) 003-4324,ShopCartly,Business Development Representative,SaaS,83,Cold Call,3
+Emma Chen,emma.chen@orbitfreight.com,+1 (966) 416-0529,OrbitFreight Ltd,Manager,Artificial Intelligence,31,Cold Call,36
+Priya Silva,priya.silva66@quaverbank.com,+1 (552) 312-4329,QuaverBank Financial,CFO,Artificial Intelligence,821,Content Download,
+Daniel Silva,daniel.silva@finwaveworks.com,+1 (905) 814-7700,Finwave Works Inc,CFO,FinTech,804,Cold Call,22
+Nina Costa,nina.costa@hotmail.com,+1 (203) 778-8925,FinWave Works LLC,Manager,FinTech,,Webinar,
+Aisha Rossi,aisha.rossi@yahoo.com,+1 (629) 148-6528,LumenMedia Group,Director of Sales,Artificial Intelligence,285,LinkedIn,18
+Liam Nguyen,liam.nguyen@gmail.com,+1 (929) 622-2927,Nimbus Cloud Limited,Student,FinTech,76,Trade Show,17
+Kenji Anderson,kenji.anderson@cedarworks.com,+1 (392) 407-5818,Cedarworks Mfg Inc,Intern,Media,40,Content Download,204
+Marcus Smith,marcus.smith@orbitfreight.com,+1 (530) 515-2204,OrbitFreight Ltd,Dir Marketing,Banking,5,Website,
+Zara Costa,zara.costa31@hotmail.com,+1 (971) 179-8089,OrbitFreight Ltd,Intern,Cloud,74,Trade Show,
+Wei Costa,wei.costa50@brightgrid.com,+1 (405) 153-1952,Brightgrid Pvt Ltd,Dir Marketing,E-commerce,,Cold Call,2
+Maria Johnson,maria.johnson@solarpeak.com,+1 (874) 034-5054,SolarPeak Energy,Director of Sales,FinTech,480,LinkedIn,
+Wei Dubois,wei.dubois38@nimbuscloud.io,+1 (154) 479-6275,Nimbus Cloud Limited,Marketing Specialist,Artificial Intelligence,12,Webinar,6
+Zara Anderson,zara.anderson@hotmail.com,+1 (092) 755-7192,BrightGrid Private Limited,CFO,Healthcare Technology,11,Webinar,
+Carlos Rossi,carlos.rossi@lumenmedia.com,+1 (731) 217-2715,Lumen Media Group Inc,VP Engineering,Logistics,89,Webinar,2
+Yuki Nguyen,yuki.nguyen@healthpointtech.com,+1 (829) 114-6786,HealthPoint Tech Pvt Ltd,CTO,Logistics,537,Webinar,
+Liam Dubois,liam.dubois@yahoo.com,+1 (358) 414-3842,Brightgrid Pvt Ltd,,Logistics,41,Webinar,5
+Daniel Larsen,daniel.larsen@shopcartly.com,+1 (784) 473-6471,ShopCartly,VP Engineering,Retail,347,Trade Show,86
+Liam Kowalski,liam.kowalski@gmail.com,+1 (104) 696-3259,Brightgrid Pvt Ltd,Director of Sales,Agriculture,363,Cold Call,349
+Noah Larsen,noah.larsen@outlook.com,,MindForge AI LLC,CEO,Cloud,9,Cold Call,66
+Wei Tanaka,wei.tanaka@brightgrid.com,+1 (912) 165-5852,Brightgrid Pvt Ltd,Intern,E-commerce,84,Webinar,23
+Arjun Nguyen,arjun.nguyen@hotmail.com,+1 (887) 947-0551,Mindforge AI Inc,Director of Sales,Media,19955,LinkedIn,
+Zara Tanaka,zara.tanaka57@gmail.com,+1 (263) 689-7028,FinWave Works,VP Sales,FinTech,660,Trade Show,
+Priya Rossi,priya.rossi@brightgrid.com,+1 (375) 758-4419,Brightgrid Pvt Ltd,VP Sales,Energy,495,Website,268
+Emma Ivanov,emma.ivanov@healthpointtech.com,+1 (219) 933-0833,HealthPoint Technologies,,Healthcare Technology,11,Trade Show,334
+Carlos Muller,carlos.muller@gmail.com,+1 (026) 206-7240,MindForge AI,Account Executive,E-commerce,18802,Cold Call,24
+Lucas Kim,lucas.kim44@yahoo.com,+1 (932) 966-8516,Lumen Media Group Inc,Account Executive,Retail,5,Referral,59
+Emma Larsen,emma.larsen@brightgrid.com,+1 (742) 684-1459,Brightgrid Pvt. Ltd.,Account Executive,Cloud,882,Webinar,25
+Zara Patel,zara.patel73@brightgrid.com,+1 (883) 982-2587,Brightgrid Pvt Ltd,Engineering Manager,Cloud,960,Content Download,353
+Maria Haddad,maria.haddad@hotmail.com,+1 (910) 651-8017,Cedarworks Mfg Inc,Customer Success Associate,Healthcare Technology,492,Cold Call,
+Tobias Kowalski,tobias.kowalski29@nimbuscloud.io,+1 (047) 868-6337,NimbusCloud Ltd,Software Engineer,FinTech,14737,Content Download,0
+Omar Suzuki,omar.suzuki@greenfieldagri.com,+1 (302) 843-9599,Greenfield Agri Ltd,VP Sales,Construction,58,Cold Call,
+Marcus Kim,marcus.kim@greenfieldagri.com,+1 (685) 662-4628,Greenfield Agri Limited,Software Engineer,Cloud,2888,Cold Call,159
+Noah Silva,noah.silva93@greenfieldagri.com,+1 (046) 990-1398,Greenfield Agri Ltd,Manager,Cloud,,Website,15
+Priya Haddad,priya.haddad@mindforgeai.com,+1 (587) 717-5355,MindForge AI,Dir Marketing,E-commerce,19130,Trade Show,40
+,kenji.khan@cedarworks.com,+1 (772) 522-8728,Cedarworks Mfg Inc,VP Marketing,Manufacturing,17,Cold Call,28
+Arjun Anderson,arjun.anderson@mindforgeai.com,+1 (700) 886-0084,MindForge AI LLC,Marketing Specialist,FinTech,84,Website,24
+Ethan Kowalski,ethan.kowalski@shopcartly.com,+1 (341) 016-6687,Shopcartly Private Limited,CFO,SaaS,,Content Download,
+Priya Johnson,priya.johnson@gmail.com,+1 (890) 250-3926,Solarpeak Energy Ltd,VP Marketing,Media,,Trade Show,5
+Elena Chen,elena.chen@nimbuscloud.io,+1 (965) 047-7358,Nimbus Cloud Limited,VP Sales,Energy,3808,Referral,35
+Ravi Nguyen,ravi.nguyen40@lumenmedia.com,+1 (412) 126-7888,Lumen Media Group Inc,Director of Sales,SaaS,547,Website,
+Priya Larsen,priya.larsen39@brightgrid.com,+1 (212) 646-4715,Brightgrid Pvt Ltd,Business Development Representative,Cloud,16,LinkedIn,
+Tobias Silva,tobias.silva@cedarworks.com,+1 (245) 937-5265,Cedarworks Mfg Inc,Mgr,Artificial Intelligence,224,Content Download,19
+Chloe Kim,chloe.kim@greenfieldagri.com,+1 (416) 724-3426,Greenfield Agri Ltd,Customer Success Associate,Logistics,14133,Trade Show,
+Marcus Patel,marcus.patel79@nimbuscloud.io,,NimbusCloud Ltd,Business Development Representative,Energy,154,LinkedIn,291
+Kenji Costa,kenji.costa@finwaveworks.com,+1 (112) 545-7387,Finwave Works Inc,CTO,SaaS,15,Content Download,1
+Sofia Khan,sofia.khan@outlook.com,+1 (622) 660-9379,Brightgrid Pvt Ltd,Software Engineer,SaaS,3050,Website,191
+Isabella Ivanov,isabella.ivanov@brightgrid.com,+1 (579) 249-9125,Brightgrid Pvt Ltd,Marketing Specialist,FinTech,5632,Cold Call,385
+Nina Haddad,nina.haddad41@hotmail.com,+1 (905) 072-3688,LumenMedia Group,Software Engineer,Energy,930,LinkedIn,32
+Priya Haddad,priya.haddad@shopcartly.com,+1 (881) 914-8580,ShopCartly Inc,Intern,Banking,317,Content Download,0
+Fatima Khan,fatima.khan@healthpointtech.com,+1 (629) 233-0958,Healthpoint Technologies Inc,Data Analyst,E-commerce,10480,Referral,1
+Tobias Nguyen,tobias.nguyen@hotmail.com,+1 (672) 946-6711,LumenMedia Group,VP Sales,Artificial Intelligence,332,Trade Show,77
+Yuki Haddad,yuki.haddad@orbitfreight.com,+1 (458) 929-7500,OrbitFreight Ltd,Mgr,Healthcare Technology,1,Cold Call,89
+Marcus Rossi,marcus.rossi@hotmail.com,+1 (064) 361-1037,NimbusCloud,Director,E-commerce,8,Webinar,11
+Priya Tanaka,priya.tanaka@hotmail.com,+1 (622) 189-0927,NimbusCloud,Student,Cloud,72,Website,
+Elena Dubois,elena.dubois@gmail.com,+1 (940) 438-9836,MindForge AI LLC,VP Sales,SaaS,557,Webinar,87
